@@ -1,0 +1,192 @@
+[
+	{
+		"penghasilan" : "p1",
+		"tanggungan" : "t1",
+		"rumah" : "sewa",
+		"prestasi" : "pp1",
+		"status" : 1
+	},
+	{
+		"penghasilan" : "p1",
+		"tanggungan" : "t3",
+		"rumah" : "sewa",
+		"prestasi" : "pp3",
+		"status" : 1
+	},
+	{
+		"penghasilan" : "p2",
+		"tanggungan" : "t3",
+		"rumah" : "sewa",
+		"prestasi" : "pp1",
+		"status" : 1
+	},
+	{
+		"penghasilan" : "p1",
+		"tanggungan" : "t3",
+		"rumah" : "sendiri",
+		"prestasi" : "pp1",
+		"status" : 1
+	},
+	{
+		"penghasilan" : "p1",
+		"tanggungan" : "t2",
+		"rumah" : "sewa",
+		"prestasi" : "pp2",
+		"status" : 1
+	},
+	{
+		"penghasilan" : "p1",
+		"tanggungan" : "t2",
+		"rumah" : "sewa",
+		"prestasi" : "pp2",
+		"status" : 1
+	},
+	{
+		"penghasilan" : "p2",
+		"tanggungan" : "t3",
+		"rumah" : "sewa",
+		"prestasi" : "pp4",
+		"status" : 1
+	},
+	{
+		"penghasilan" : "p2",
+		"tanggungan" : "t3",
+		"rumah" : "sendiri",
+		"prestasi" : "pp2",
+		"status" : 1
+	},
+	{
+		"penghasilan" : "p1",
+		"tanggungan" : "t2",
+		"rumah" : "sewa",
+		"prestasi" : "pp4",
+		"status" : 1
+	},
+	{
+		"penghasilan" : "p1",
+		"tanggungan" : "t2",
+		"rumah" : "sewa",
+		"prestasi" : "pp1",
+		"status" : 1
+	},
+	{
+		"penghasilan" : "p3",
+		"tanggungan" : "t3",
+		"rumah" : "sendiri",
+		"prestasi" : "pp4",
+		"status" : 1
+	},
+	{
+		"penghasilan" : "p3",
+		"tanggungan" : "t3",
+		"rumah" : "sewa",
+		"prestasi" : "pp1",
+		"status" : 1
+	},
+	{
+		"penghasilan" : "p1",
+		"tanggungan" : "t3",
+		"rumah" : "sendiri",
+		"prestasi" : "pp1",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p2",
+		"tanggungan" : "t3",
+		"rumah" : "sendiri",
+		"prestasi" : "pp2",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p2",
+		"tanggungan" : "t3",
+		"rumah" : "sendiiri",
+		"prestasi" : "pp4",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p2",
+		"tanggungan" : "t3",
+		"rumah" : "sendiri",
+		"prestasi" : "pp1",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p1",
+		"tanggungan" : "t2",
+		"rumah" : "sendiri",
+		"prestasi" : "pp1",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p3",
+		"tanggungan" : "t1",
+		"rumah" : "sendiri",
+		"prestasi" : "pp1",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p4",
+		"tanggungan" : "t2",
+		"rumah" : "sendiri",
+		"prestasi" : "pp1",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p4",
+		"tanggungan" : "t3",
+		"rumah" : "sendiri",
+		"prestasi" : "pp1",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p4",
+		"tanggungan" : "t3",
+		"rumah" : "sendiri",
+		"prestasi" : "pp3",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p4",
+		"tanggungan" : "t2",
+		"rumah" : "sewa",
+		"prestasi" : "pp2",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p4",
+		"tanggungan" : "t2",
+		"rumah" : "sewa",
+		"prestasi" : "pp3",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p4",
+		"tanggungan" : "t3",
+		"rumah" : "sewa",
+		"prestasi" : "pp1",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p3",
+		"tanggungan" : "t2",
+		"rumah" : "sewa",
+		"prestasi" : "pp1",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p3",
+		"tanggungan" : "t2",
+		"rumah" : "sendiri",
+		"prestasi" : "pp2",
+		"status" : 0
+	},
+	{
+		"penghasilan" : "p3",
+		"tanggungan" : "t1",
+		"rumah" : "sendiri",
+		"prestasi" : "pp2",
+		"status" : 0
+	}
+
+]
